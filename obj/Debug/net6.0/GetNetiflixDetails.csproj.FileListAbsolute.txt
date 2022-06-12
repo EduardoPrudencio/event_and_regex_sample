@@ -1,0 +1,15 @@
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/bin/Debug/net6.0/GetNetiflixDetails
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/bin/Debug/net6.0/GetNetiflixDetails.deps.json
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/bin/Debug/net6.0/GetNetiflixDetails.runtimeconfig.json
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/bin/Debug/net6.0/GetNetiflixDetails.dll
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/bin/Debug/net6.0/GetNetiflixDetails.pdb
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/GetNetiflixDetails.csproj.AssemblyReference.cache
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/GetNetiflixDetails.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/GetNetiflixDetails.AssemblyInfoInputs.cache
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/GetNetiflixDetails.AssemblyInfo.cs
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/GetNetiflixDetails.csproj.CoreCompileInputs.cache
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/GetNetiflixDetails.dll
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/refint/GetNetiflixDetails.dll
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/GetNetiflixDetails.pdb
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/GetNetiflixDetails.genruntimeconfig.cache
+/Users/eduardo/projetos/dotnet/GetNetiflixDetails/obj/Debug/net6.0/ref/GetNetiflixDetails.dll
